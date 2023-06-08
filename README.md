@@ -12,7 +12,7 @@ Read more about the challenge on the [Frontend Practice website](https://www.fro
 
 ## Usage
 
-You can [view the live version](), or, if you prefer to run the project locally, follow these steps:
+You can [view the live version](https://ableton-about-page-clone.vercel.app/), or, if you prefer to run the project locally, follow these steps:
 
 1. Clone the repository:
 
