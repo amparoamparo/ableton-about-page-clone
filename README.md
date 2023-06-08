@@ -2,7 +2,7 @@
 
 This project is a work in progress and aims to replicate Ableton's "About us" page. The purpose of this project is educational, serving as a practice exercise to improve my frontend development skills. Please note that all rights and ownership of the original website belong to Ableton.
 
-## Tech Stack
+## Tech stack
 
 - Next.js
 - CSS Modules
