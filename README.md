@@ -1,6 +1,6 @@
 # Frontend Practice project: Ableton's "About us" page
 
-This project is a work in progress and aims to replicate [Ableton's "About us" page](https://www.frontendpractice.com/projects/ableton). The purpose of this project is educational, serving as a practice exercise to improve my frontend development skills. Please note that all rights and ownership of the original website belong to Ableton.
+This project is a work in progress and aims to replicate [Ableton's "About us" page](https://www.ableton.com/en/about/). The purpose of this project is educational, serving as a practice exercise to improve my frontend development skills. Please note that all rights and ownership of the original website belong to Ableton.
 
 Read more about the challenge on the [Frontend Practice website](https://www.frontendpractice.com/projects/ableton).
 
@@ -37,4 +37,4 @@ The development server will run at http://localhost:3000.
 
 ## Acknowledgements
 
-This project is inspired by Ableton's "About us" page and is solely for educational purposes. All rights and ownership of the original page content and design belong to Ableton.
+This project is inspired by [Ableton's "About us" page](https://www.ableton.com/en/about/) and is solely for educational purposes. All rights and ownership of the original page content and design belong to Ableton.
