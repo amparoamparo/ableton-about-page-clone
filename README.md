@@ -1,6 +1,8 @@
-# Frontend Practice challenge: Ableton's "About us" page
+# Frontend Practice project: Ableton's "About us" page
 
-This project is a work in progress and aims to replicate Ableton's "About us" page. The purpose of this project is educational, serving as a practice exercise to improve my frontend development skills. Please note that all rights and ownership of the original website belong to Ableton.
+This project is a work in progress and aims to replicate [Ableton's "About us" page](https://www.frontendpractice.com/projects/ableton). The purpose of this project is educational, serving as a practice exercise to improve my frontend development skills. Please note that all rights and ownership of the original website belong to Ableton.
+
+Read more about the challenge on the [Frontend Practice website](https://www.frontendpractice.com/projects/ableton).
 
 ## Tech stack
 
@@ -10,7 +12,7 @@ This project is a work in progress and aims to replicate Ableton's "About us" pa
 
 ## Usage
 
-To run the project locally, follow these steps:
+You can [view the live version](), or, if you prefer to run the project locally, follow these steps:
 
 1. Clone the repository:
 
