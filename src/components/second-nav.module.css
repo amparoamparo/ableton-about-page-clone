@@ -1,0 +1,23 @@
+.container {
+  background-color: #fff;
+  margin: auto 10rem;
+  padding: 1.375rem 2.5rem;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  gap: 2.5rem;
+}
+
+.navbar,
+.navlink {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 0.9rem;
+}
+
+.orangeLink {
+  color: #ff764d;
+}
